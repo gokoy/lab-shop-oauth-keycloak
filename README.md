@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/e2e218b0-de58-11ed-9611-096ca70ed857/Oauth2withKeycloak
+www.msaez.io/#/courses/cna-full/fe1ba350-004d-11ee-bb7d-9378610f7b24/Oauth2withKeycloak
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
